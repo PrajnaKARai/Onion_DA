@@ -1,4 +1,3 @@
-
 🌱 A Shiny Web Application for Agricultural Decision-Making
 
 Developed as part of the XXXXX Project (hyperlink).
